@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: mobile-backend
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: br.com.reges
+Build-Jdk: 1.7.0_79
+Built-By: lucas
+Created-By: Maven Integration for Eclipse
+
